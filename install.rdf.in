@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>gnome3-ext-linux@heiko-adams.de</em:id>
+    <em:id>gnome3-linux@heiko-adams.de</em:id>
     <em:type>32</em:type>
     <em:name>GNOME (Linux-only)</em:name>
     <em:version>@VERSION@</em:version>

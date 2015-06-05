@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>{05f1cdaa-7474-43fa-9f69-c697555f4ea8}</em:id>
+    <em:id>gnome3-ext-linux@heiko-adams.de</em:id>
     <em:type>2</em:type>
     <em:name>GNOME Theme Tweak</em:name>
     <em:version>@VERSION@</em:version>
