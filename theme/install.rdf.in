@@ -4,14 +4,15 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>{451500c0-902c-11e0-91e4-0800200c9a66}</em:id>
+    <em:id>gnome3-theme-linux@heiko-adams.de</em:id>
     <em:type>4</em:type>
-    <em:name>GNOME</em:name>
+    <em:name>GNOME (Linux-only)</em:name>
     <em:version>@VERSION@</em:version>
     <em:description>GNOME theme for Firefox</em:description>
     <em:creator>GNOME Integration Team</em:creator>
     <em:contributor>GNOME Integration Team</em:contributor>
     <em:internalName>Adwaita</em:internalName>
+    <em:targetPlatform>Linux</em:targetPlatform>
 
     <em:localized>
       <Description em:locale="ar">

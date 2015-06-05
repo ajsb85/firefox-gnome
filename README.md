@@ -1,6 +1,6 @@
 # GNOME theme for Firefox
 
-The latest stable version is always available from [Mozilla's Add-ons](https://addons.mozilla.org/firefox/addon/adwaita/).
+The latest stable version is always available from [Mozilla's Add-ons](https://addons.mozilla.org/de/firefox/addon/gnome-linux-only/).
 
 List of current issues is available at our [bug tracker](https://gitlab.com/HeikoAdams/firefox-gnome3-theme/issues).
 
