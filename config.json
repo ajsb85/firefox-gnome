@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": "39.0",
+=======
+  "version": "35.1",
+>>>>>>> upstream/master
   "min-version": "39.0",
   "max-version": "42.0a1",
   "theme": {
